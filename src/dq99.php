@@ -1,5 +1,5 @@
 <?php
-
+#//
 $sh_name = sh_name();
 #$sh_mainurl        = "http://localhost/dQ99SH/";
 $sh_mainurl        = "http://waterski21.com/bbs/config/tool/";
